@@ -1,7 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91ed4020-80c5-4147-9fbe-c86b40ff0d37" name="Default Changelist" comment="" />
+    <list default="true" id="91ed4020-80c5-4147-9fbe-c86b40ff0d37" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ssm_dao/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_dao/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_dao/target/ssm_dao-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_dao/target/ssm_dao-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_domain/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_domain/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_domain/target/ssm_domain-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_domain/target/ssm_domain-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_service/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_service/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_service/target/ssm_service-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_service/target/ssm_service-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_utils/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_utils/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_utils/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_utils/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_utils/target/ssm_utils-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_utils/target/ssm_utils-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_web/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/target/ssm_web-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_web/target/ssm_web-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/target/ssm_web-1.0-SNAPSHOT/WEB-INF/classes/cn/itcast/controller/ProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_web/target/ssm_web-1.0-SNAPSHOT/WEB-INF/classes/cn/itcast/controller/ProductController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/target/ssm_web-1.0-SNAPSHOT/WEB-INF/classes/spring-mvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_web/target/ssm_web-1.0-SNAPSHOT/WEB-INF/classes/spring-mvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/target/ssm_web-1.0-SNAPSHOT/WEB-INF/lib/ssm_dao-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_web/target/ssm_web-1.0-SNAPSHOT/WEB-INF/lib/ssm_dao-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/target/ssm_web-1.0-SNAPSHOT/WEB-INF/lib/ssm_domain-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_web/target/ssm_web-1.0-SNAPSHOT/WEB-INF/lib/ssm_domain-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/target/ssm_web-1.0-SNAPSHOT/WEB-INF/lib/ssm_service-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_web/target/ssm_web-1.0-SNAPSHOT/WEB-INF/lib/ssm_service-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/target/ssm_web-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_web/target/ssm_web-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/target/ssm_web-1.0-SNAPSHOT/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_web/target/ssm_web-1.0-SNAPSHOT/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/target/ssm_web-1.0-SNAPSHOT/pages/product-list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/ssm_web/target/ssm_web-1.0-SNAPSHOT/pages/product-list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/target/tomcat/conf/logging.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/target/tomcat/conf/tomcat-users.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/target/tomcat/conf/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/target/tomcat/logs/access_log.2019-08-13" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/index_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/index_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/pages/aside_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/pages/aside_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/pages/header_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/pages/header_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/pages/main_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/pages/main_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/pages/product_002dlist_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ssm_web/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/pages/product_002dlist_jsp.java" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/ssm_dao/target/" />
@@ -116,6 +150,31 @@
             <path>
               <item name="ssm" type="b2602c69:ProjectViewProjectNode" />
               <item name="ssm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_web" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -266,7 +325,7 @@
       <option name="presentableId" value="Default" />
       <updated>1565694092426</updated>
       <workItem from="1565694093613" duration="9808000" />
-      <workItem from="1565741229999" duration="1401000" />
+      <workItem from="1565741229999" duration="1875000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1565742553164</created>
@@ -279,7 +338,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11209000" />
+    <option name="totallyTimeSpent" value="11683000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="37" y="18" width="1480" height="800" extended-state="0" />
@@ -294,7 +353,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5534407" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.55279505" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -309,7 +368,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.32911393" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.32911393" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Database" order="6" />
